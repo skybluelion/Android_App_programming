@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">스탑워치</string>
+
+    <string name="start">시작</string>
+    <string name="stop">정지</string>
+    <string name="reset">초기화</string>
+</resources>
